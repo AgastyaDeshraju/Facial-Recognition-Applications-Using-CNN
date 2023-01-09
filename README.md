@@ -1,4 +1,4 @@
-# Facial-Recognition-Applications-Using-CNN
+# Facial Recognition Applications Using Convolutional Neural Networks
 
 In this project we implement a facial identification and emotion recognition model, in real-time via the webcam attached to a computer system. This is done using Tensorflow and Keras to implement the Convolutional Neural Network, as well as OpenCV to access the frames from a webcam and perform various other Computer Vision tasks.
 
